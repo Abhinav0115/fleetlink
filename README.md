@@ -6,7 +6,7 @@ FleetLink is a modern, full-stack fleet management system built with Node.js, Ex
 
 ## 🎥 Live Demo
 
-[![Watch the demo](client/src/assets/demo-thumb.png)](https://youtu.be/DVL0w5a5P40)
+[![Watch the demo](client/src/assets/demo-thumb.png)](https://drive.google.com/file/d/1lz86dKmbQ3ebtYBwrgeJjRy7JL2ZeYTE/view?usp=sharing/view)
 
 ## 🚀 Features
 
