@@ -4,6 +4,10 @@
 
 FleetLink is a modern, full-stack fleet management system built with Node.js, Express, MongoDB, React, and Tailwind CSS. It provides comprehensive vehicle and booking management with real-time availability checking and intelligent conflict detection.
 
+## 🎥 Live Demo
+
+[![Watch the demo](client/src/assets/demo-thumb.png)](https://youtu.be/DVL0w5a5P40)
+
 ## 🚀 Features
 
 ### Backend (Node.js + Express + MongoDB)
